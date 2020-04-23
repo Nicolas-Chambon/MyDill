@@ -1,0 +1,30 @@
+{
+  "name": "msprsecu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "activedirectory": "^0.7.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-async-await": "^1.1.0",
+    "mongoose": "^5.9.4",
+    "node-fetch": "^2.6.0",
+    "qrcode": "^1.4.4",
+    "speakeasy": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Chambon/2020-MSPR-RESEAUX-SECU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Chambon/2020-MSPR-RESEAUX-SECU/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Chambon/2020-MSPR-RESEAUX-SECU#readme"
+}
